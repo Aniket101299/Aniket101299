@@ -1,13 +1,13 @@
 # Hi there, Aniket Darekar 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack Developer!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [Portfolio][portfolio]
+- 🌱 I’m currently learning MERN Stack And DSA.
+- 👯 I’m looking to collaborate in OpenSource Projects
+- 📫 How to reach me aniketdarekar99@gmail.com
+- 👨‍💻 All of my projects are available at My Portfolio [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+- 🌱 I am also interested in playing cricket and badminton.
+
 
 ### Connect with me:
 
@@ -15,8 +15,8 @@
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AniketD20191583)
+[![website](https://twitter.com/AniketD20191583)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
