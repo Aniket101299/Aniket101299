@@ -27,12 +27,9 @@
 - 🌱 I am also interested in playing cricket and badminton.
 
 
-
 </br>
 <hr>
-</br>
-
-
+<br>
 
 ## Connect with me:
 
