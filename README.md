@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://aakash-naykude-portfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](aniket-darekar-portfolio.vercel.app)**
 
 - 📫 How to reach me **aniketdarekar99@gmail.com**
 
